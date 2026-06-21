@@ -1,0 +1,35 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.iml
+out/
+bin/
+target/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Office or docs
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.xlsx
+
+# Backup or archive
+*.zip
+*.rar
+
+# Ignore inventory data files if you want (optional)
+inventory.txt
